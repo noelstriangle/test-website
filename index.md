@@ -1,7 +1,5 @@
-# Congratulations on making it this far.
+# This is a test-website.
 ---
-I thought that this was fun, so I continued to make more parts to this code-breaking series. I hope its fun!
-
-The next part of this involves a note slipped to you by the stranger:
-
-####
+This website is a test.
+Testing github pages templates.
+---
