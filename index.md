@@ -3,5 +3,3 @@
 This website is a test.
 
 Testing github pages templates.
-
-***
